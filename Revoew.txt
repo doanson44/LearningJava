@@ -1,0 +1,39 @@
+String, String builder
+Khi nào sử dụng static
+Static có kế thừa không
+Abstract vs Interface
+final class
+Array, ArrayList
+Map, Set
+HashMap, Hashtable
+
+Lấy phần tử 100 trong mảng
+
+Select * when x > 45
+Procedure
+Trigger
+Primary key & Foreign key
+SQL & MySQL
+Forward & Redirect
+GET & POST
+Cookie & Session
+5 phút đăng nhập lại thì sử dụng cái gì
+Truy vấn SQL, mục đích của nó là gì
+Hibernate (Một số khái niệm cơ bản)
+Spring (Một số khái niệm cơ bản)
+
+oh để nói ông cái bài test viết
+1 cấu đổi nhị phân với hexa
+1 câu viết code sắp xếp dãy số
+1 câu người ta cho mình 1 đoạn code xong tìm kết quả ở từng dòng
+1 câu thiết kế database (câu này tui bỏ)
+mấy câu sau thì nó hỏi về mấy khải niệm chung chung (IP, DNS, server, OOP)
+với nó cho 1 từ, mình nếu là vài đặt điểm của từ đó
+câu này thì nhảm thôi
+hok làm dc cũng chả sao
+
+cơ chế dọn rác trong Java
+
+các vùng nhớ
+
+SOLID 
